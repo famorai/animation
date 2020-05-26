@@ -1,0 +1,14 @@
+.Animation {
+  position: fixed;
+  max-width: 700px;
+  margin: 20px auto 0;
+  padding: 0 20px;
+  float: right;
+  width: 50%;
+  display: block;
+  overflow: auto;
+  right: 0;
+  top: 5%;
+  
+  /* justify-content: space-between; */
+}
