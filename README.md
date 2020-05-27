@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Minerador Digital
+
+## Layout 
+
+![layout](https://github.com/famorai/mineradordigital/blob/master/layout-minerador.gif)
 
 ## Available Scripts
 
