@@ -1,15 +1,14 @@
 import React from 'react';
 import "./styles.css";
-import logoImg from "../../components/Animation/assets/logo.png";
+import logoImg from "./favicon2.ico";
 
 
 const Header = () => (
-    // {Header.logo=`${logo}`}
-    
+        
    <header id="main-header">
-     <img src={logoImg}/>
-     Minerador Digital
-     </header>
+     Minerador <img src={logoImg} alt="Minerador Digital" />
+     Digital</header>
+     
    );
 
 export default Header;

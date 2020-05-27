@@ -6,15 +6,16 @@ header#main-header {
   font-weight: bold;
   color: #ffffff;
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
+  padding-left: 30px;
 }
 
 header#main-header img {
-  margin: 0.5em;
+  margin: 0.1em;
   width: 24%;
   max-width: 32px;
-  align-items: center;
+  align-items: initial;
   background: #4941a2;
     
 }
