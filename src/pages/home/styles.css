@@ -1,0 +1,39 @@
+.home {
+  max-width: 580px;
+  margin: 20px auto 0;
+  padding: 50px;
+  background: none;
+  border-radius: 5px;
+  /* border: 1px solid #dddddd; */
+  margin-left: initial;
+}
+
+.home strong {
+  font-size: 32px;
+}
+
+.home p {
+  color: #4941a2;
+  line-height: 24px;
+  margin-top: 25px;
+ 
+}
+
+.home button {
+  padding: 10px;
+  border-radius: 5px;
+  border: 0;
+  background: #4941a2;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 40px;
+  margin: 30px;
+  width: 400px;
+  transition: 0.3s;
+  }
+
+.home button:hover {
+  opacity: 0.8;
+}
